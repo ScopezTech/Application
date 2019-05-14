@@ -20,7 +20,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
-<<<<<<< HEAD
+
 
         <!--
              The API key for Google Maps-based APIs is defined as a string resource.
@@ -36,21 +36,17 @@
 
         <activity
             android:name="com.example.my_app.MapsActivity"
-            android:label="maps">
-=======
+            android:label="maps"/>
+
         <activity android:name="com.example.my_app.Social" />
         <activity android:name="com.example.my_app.Splash_Screen" />
         <activity android:name="com.example.my_app.Login_Activity" />
         <activity android:name="com.example.my_app.Dashboard">
->>>>>>> 2cc369102aaffdb0fd478bb7586a9be03f9db8b1
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.example.my_app.Dashboard" />
-        <activity android:name="com.example.my_app.Splash_Screen" />
-        <activity android:name="com.example.my_app.Login_Activity" />
         <activity android:name="com.example.my_app.Choice_get"></activity>
         <activity android:name="com.example.my_app.register">
             <intent-filter>
