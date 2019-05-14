@@ -424,6 +424,10 @@
         "source": "C:\\Users\\91776\\.gradle\\caches\\transforms-2\\files-2.1\\8f45e486e8e81a7fce4e980029ac395b\\res\\color\\abc_secondary_text_material_light.xml"
     },
     {
+        "merged": "C:\\Users\\91776\\Documents\\GitHub\\Application\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_social.xml.flat",
+        "source": "C:\\Users\\91776\\Documents\\GitHub\\Application\\app\\src\\main\\res\\layout\\activity_social.xml"
+    },
+    {
         "merged": "C:\\Users\\91776\\Documents\\GitHub\\Application\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_popup_exit.xml.flat",
         "source": "C:\\Users\\91776\\.gradle\\caches\\transforms-2\\files-2.1\\8f45e486e8e81a7fce4e980029ac395b\\res\\anim\\abc_popup_exit.xml"
     },
@@ -814,6 +818,10 @@
     {
         "merged": "C:\\Users\\91776\\Documents\\GitHub\\Application\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media.xml.flat",
         "source": "C:\\Users\\91776\\.gradle\\caches\\transforms-2\\files-2.1\\aa4538f3ce3f8b1444db8e1585b90b15\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\91776\\Documents\\GitHub\\Application\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo_splash.png.flat",
+        "source": "C:\\Users\\91776\\Documents\\GitHub\\Application\\app\\src\\main\\res\\drawable\\logo_splash.png"
     },
     {
         "merged": "C:\\Users\\91776\\Documents\\GitHub\\Application\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_pressed_holo_light.9.png.flat",
@@ -2112,10 +2120,6 @@
         "source": "C:\\Users\\91776\\.gradle\\caches\\transforms-2\\files-2.1\\da166b89d67079f0cfa19b9b9eca138c\\res\\color-v23\\design_tint_password_toggle.xml"
     },
     {
-        "merged": "C:\\Users\\91776\\Documents\\GitHub\\Application\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_splash.jpg.flat",
-        "source": "C:\\Users\\91776\\Documents\\GitHub\\Application\\app\\src\\main\\res\\drawable\\bg_splash.jpg"
-    },
-    {
         "merged": "C:\\Users\\91776\\Documents\\GitHub\\Application\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item_subheader.xml.flat",
         "source": "C:\\Users\\91776\\.gradle\\caches\\transforms-2\\files-2.1\\da166b89d67079f0cfa19b9b9eca138c\\res\\layout\\design_navigation_item_subheader.xml"
     },
@@ -2138,10 +2142,6 @@
     {
         "merged": "C:\\Users\\91776\\Documents\\GitHub\\Application\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
         "source": "C:\\Users\\91776\\.gradle\\caches\\transforms-2\\files-2.1\\3e84810b51c9e7b08ce67f23619ed8be\\res\\layout\\notification_template_part_chronometer.xml"
-    },
-    {
-        "merged": "C:\\Users\\91776\\Documents\\GitHub\\Application\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo_splash.jpg.flat",
-        "source": "C:\\Users\\91776\\Documents\\GitHub\\Application\\app\\src\\main\\res\\drawable\\logo_splash.jpg"
     },
     {
         "merged": "C:\\Users\\91776\\Documents\\GitHub\\Application\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",

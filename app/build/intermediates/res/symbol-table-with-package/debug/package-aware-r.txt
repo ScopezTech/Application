@@ -1050,7 +1050,6 @@ drawable abc_textfield_search_material
 drawable abc_vector_test
 drawable avd_hide_password
 drawable avd_show_password
-drawable bg_splash
 drawable common_full_open_on_phone
 drawable common_google_signin_btn_icon_dark
 drawable common_google_signin_btn_icon_dark_focused
@@ -1353,6 +1352,7 @@ id up
 id useLogo
 id view_offset_helper
 id visible
+id webView
 id wide
 id withText
 id wrap
@@ -1412,6 +1412,7 @@ layout activity_login_
 layout activity_main
 layout activity_maps
 layout activity_register
+layout activity_social
 layout activity_splash__screen
 layout app_bar_main
 layout design_bottom_navigation_item
