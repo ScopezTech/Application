@@ -2,6 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     package="com.androidhire.splashscreen">
+    
+    <uses-permission android:name="android.permission.INTERNET" />
 
     <!--
          The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
@@ -18,6 +20,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
+<<<<<<< HEAD
 
         <!--
              The API key for Google Maps-based APIs is defined as a string resource.
@@ -34,6 +37,12 @@
         <activity
             android:name="com.example.my_app.MapsActivity"
             android:label="maps">
+=======
+        <activity android:name="com.example.my_app.Social" />
+        <activity android:name="com.example.my_app.Splash_Screen" />
+        <activity android:name="com.example.my_app.Login_Activity" />
+        <activity android:name="com.example.my_app.Dashboard">
+>>>>>>> 2cc369102aaffdb0fd478bb7586a9be03f9db8b1
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
