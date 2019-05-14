@@ -91,7 +91,7 @@ public class Dashboard extends AppCompatActivity {
                             JSONObject jsongeometry = jsonObject.getJSONObject("geometry");
                             JSONArray jsonLatlng = jsongeometry.getJSONArray("coordinates");
                             JSONObject jsonProp = jsonObject.getJSONObject("properties");
-                            String location =" "+ jsonProp.getString("Location");
+                            String location ="Location:"+ jsonProp.getString("Location");
                             String latitude = jsonLatlng.getString(1);
                             String longitude = jsonLatlng.getString(0);
                             String date = "Date: \n "+jsonProp.getString("Date");
