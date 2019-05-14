@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml:2:1-34:12
-INJECTED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml:2:1-34:12
-INJECTED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml:2:1-34:12
-INJECTED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml:2:1-34:12
+ADDED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml:2:1-40:12
 MERGED from [com.android.support:design:28.0.0] C:\Users\91776\.gradle\caches\transforms-2\files-2.1\da166b89d67079f0cfa19b9b9eca138c\AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\91776\.gradle\caches\transforms-2\files-2.1\8f45e486e8e81a7fce4e980029ac395b\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\91776\.gradle\caches\transforms-2\files-2.1\db54c1d3aa46bc5af092b1b745defdbb\AndroidManifest.xml:17:1-38:12
@@ -43,27 +43,27 @@ MERGED from [com.android.support:interpolator:28.0.0] C:\Users\91776\.gradle\cac
 MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\91776\.gradle\caches\transforms-2\files-2.1\3a400bbed924af0abd7b600bd5b19105\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\91776\.gradle\caches\transforms-2\files-2.1\bbeeb998c0147ddd54fc1cb563a1ca41\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\91776\.gradle\caches\transforms-2\files-2.1\b793510a9289356754124cd6b78d22f1\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml:2:1-34:12
-INJECTED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml:2:1-34:12
-INJECTED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml:2:1-40:12
 	package
 		ADDED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml:4:5-43
 		INJECTED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml:2:1-34:12
+		ADDED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml:2:1-40:12
 		INJECTED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml
 	xmlns:tools
 		ADDED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml:2:1-34:12
+		ADDED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml:2:1-40:12
 		INJECTED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml:6:5-32:19
+ADDED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml:6:5-38:19
 MERGED from [com.android.support:design:28.0.0] C:\Users\91776\.gradle\caches\transforms-2\files-2.1\da166b89d67079f0cfa19b9b9eca138c\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:design:28.0.0] C:\Users\91776\.gradle\caches\transforms-2\files-2.1\da166b89d67079f0cfa19b9b9eca138c\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\91776\.gradle\caches\transforms-2\files-2.1\db54c1d3aa46bc5af092b1b745defdbb\AndroidManifest.xml:30:5-36:19
@@ -100,46 +100,44 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\91776\.gra
 		ADDED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml:7:9-35
 	android:theme
 		ADDED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml:12:9-40
-activity#com.example.my_app.Dashboard
-ADDED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml:14:9-74
+activity#com.example.my_app.MapsActivity
+ADDED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml:14:9-19:20
 	android:name
-		ADDED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml:14:19-62
-activity#com.example.my_app.Splash_Screen
-ADDED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml:15:9-69
-	android:name
-		ADDED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml:15:19-66
-activity#com.example.my_app.Login_Activity
-ADDED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml:16:9-70
-	android:name
-		ADDED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml:16:19-67
-activity#com.example.my_app.Choice_get
-ADDED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml:17:9-23:20
-	android:name
-		ADDED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml:17:19-63
-intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml:18:13-22:29
-action#android.intent.action.MAIN
-ADDED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml:19:17-69
-	android:name
-		ADDED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml:19:25-66
-category#android.intent.category.LAUNCHER
-ADDED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml:21:17-77
-	android:name
-		ADDED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml:21:27-74
-activity#com.example.my_app.register
-ADDED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml:24:9-30:20
-	android:name
-		ADDED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml:24:19-61
+		ADDED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml:14:19-65
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.DEFAULT
-ADDED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml:25:13-29:29
+ADDED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml:15:13-18:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml:16:25-66
 category#android.intent.category.DEFAULT
-ADDED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml:28:17-76
+ADDED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml:17:17-76
 	android:name
-		ADDED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml:28:27-73
+		ADDED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml:17:27-73
+activity#com.example.my_app.Dashboard
+ADDED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml:20:9-74
+	android:name
+		ADDED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml:20:19-62
+activity#com.example.my_app.Splash_Screen
+ADDED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml:21:9-69
+	android:name
+		ADDED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml:21:19-66
+activity#com.example.my_app.Login_Activity
+ADDED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml:22:9-70
+	android:name
+		ADDED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml:22:19-67
+activity#com.example.my_app.Choice_get
+ADDED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml:23:9-29:20
+	android:name
+		ADDED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml:23:19-63
+activity#com.example.my_app.register
+ADDED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml:30:9-36:20
+	android:name
+		ADDED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml:30:19-61
 activity#com.example.my_app.MainActivity
-ADDED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml:31:9-68
+ADDED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml:37:9-68
 	android:name
-		ADDED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml:31:19-65
+		ADDED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml:37:19-65
 uses-sdk
 INJECTED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml
